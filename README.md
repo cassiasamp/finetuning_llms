@@ -1,2 +1,2 @@
-# finetuning_llms
-materials for fine tuning large language models course
+## LLMs courses
+Material from different DeepLearning.AI courses about LLMs.
